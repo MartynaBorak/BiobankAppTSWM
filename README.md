@@ -11,7 +11,7 @@ Umożliwia ona przeglądanie, dodawanie, edycję oraz usuwanie danych.
 
 ## Spis treści
 * [O projekcie](#o-projekcie)  
-* [Baza danych](#baza-danych)  
+  * [Baza danych](#baza-danych)  
   * [Backend](#backend)  
   * [REST API](#rest-api)  
   * [Frontend](#frontend)  
